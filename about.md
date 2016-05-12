@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Badinternet.me The Home of Badinternet (https://www.youtube.com/channel/UCoirQyLCj8pN2fxWJ4Kuf5w)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+here you can See my latest uploads all posted up at the time of upload and the ocasional Tech tips and tricks
 
 You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include icon-github.html username="pixel-studios" %} /
+
