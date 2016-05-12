@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Bad internet
 email: BadInternet@badinternet.me
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Github.thehangout.space
+  Welcome to badinternet.me the home of Bad Internet https://www.youtube.com/channel/UCoirQyLCj8pN2fxWJ4Kuf5w
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.BadInterent.me" # the base hostname & protocol for your site
 twitter_username: 
