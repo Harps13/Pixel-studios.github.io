@@ -8,6 +8,6 @@ Welcome to Badinternet.me The Home of Badinternet (https://www.youtube.com/chann
 
 here you can See my latest uploads all posted up at the time of upload and the ocasional Tech tips and tricks
 
-You can find the source code for Jekyll at
+thankyou for Github for the Free Hosting visit my github account
 {% include icon-github.html username="pixel-studios" %} /
 
